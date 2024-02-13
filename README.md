@@ -1,4 +1,4 @@
-#Air Conditioner Project with ESP8266 and Peltier Module
+*Air Conditioner Project with ESP8266 and Peltier Module
 
 **Overview:**
 This project utilizes an ESP8266 microcontroller along with a Peltier module to create a custom air conditioning system. The system is designed to control various components such as an air purifier, fan, water pump, and Peltier module based on environmental conditions and user preferences. 
@@ -64,3 +64,5 @@ This project utilizes an ESP8266 microcontroller along with a Peltier module to 
 
 **Author:**
 Johanth P S - johanth6600@gmail.com
+
+
